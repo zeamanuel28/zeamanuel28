@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZEAMANUEL</h1>
 <h3 align="center">A passionate fullstack developer from ethiopia</h3>
 
-<p align="left"> <img src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="zeamanuel28" /> </p>
+<p align="left"> <img src="[68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://www.google.com/search?sca_esv=f1ae4c20309142a7&sca_upv=1&q=animated+coding+gif&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joQcoZ-0Q2Udkt2zEybT7HdcghX_cULItgDQ-ic0tx97DazhjEcGepiAwATfo9G6CRCAw3CuxMGhix6Y2lWjj00EmmCZhetgIxbt27XRvsHvy5TkrQ&sa=X&sqi=2&ved=2ahUKEwjJgpOvx7mIAxVffKQEHddbDsMQtKgLegQIFRAB&biw=1280&bih=632&dpr=1.5#vhid=uYYa30tHbsaH2M&vssid=mosaic)" alt="zeamanuel28" /> </p>
 
 - 🌱 I’m currently learning **MERN,NEXT.JS,React native**
 
